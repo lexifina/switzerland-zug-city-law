@@ -1,0 +1,8 @@
+# § 18a Geschenkannahmeverbot
+1 Geschenke oder andere Vorteile für sich oder eine andere Person dürfen grundsätzlich nicht angenommen werden, wenn sie im Zusammenhang mit der dienstlichen Aufgabenerfüllung stehen.
+2 Als Geschenke und Vorteile gelten geldwerte Zuwendungen wie Sach- oder Geldleistungen, Einladungen zum Essen oder zu Veranstaltungen, Vergütungen oder Rabatte und dergleichen.
+3 Ein Geschenk oder ein Vorteil von geringem Wert darf ausnahmsweise angenommen werden, wenn gleichzeitig folgende Voraussetzungen erfüllt sind:
+a) der Wert des Geschenks oder Vorteils beträgt nicht mehr als CHF 100.00;
+b) die Geschenks- bzw. Vorteilsannahme ist nicht geeignet, einen Verwaltungs- oder einen Beschaffungsentscheid zu beeinflussen;
+c) das Geschenk oder der Vorteil ist Ausdruck der Wertschätzung gegenüber einer bzw. einem Mitarbeitenden der Stadt Zug für eine erbrachte Dienstleistung.
+4 Ob ein Geschenk oder ein Vorteil im Wert von mehr als CHF 100.00 angenommen werden darf, entscheidet im Einzelfall die Departementsvorsteherin oder der Departementsvorsteher.
