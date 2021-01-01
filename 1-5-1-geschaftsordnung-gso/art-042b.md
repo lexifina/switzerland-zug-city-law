@@ -1,0 +1,6 @@
+# § 42b Behandlung von Postulaten
+1 Trifft ein Postulat spätestens 15 Tage vor der Ratssitzung bei der Stadtkanzlei ein, wird es zur Überweisung auf die Traktandenliste gesetzt. Später eintreffende Postulate werden auf die folgende Ratssitzung traktandiert.
+1bis Wird ein Antrag auf Nichtüberweisung gestellt, fasst der Rat nach mündlicher Begründung des Vorstosses durch die Postulantin und nach durchgeführter Diskussion Beschluss. Die Nichtüberweisung einer in ein Postulat umgewandelten Motion erfordert zwei Drittel der Stimmen der anwesenden Ratsmitglieder.
+2 Der Stadtrat unterbreitet dem Grossen Gemeinderat spätestens zwölf Monate nach der Überweisung Bericht und Antrag. Aus wichtigen Gründen kann der Rat diese Frist aufgrund eines Zwischenberichts erstrecken.
+3 Steht das Postulat im Zusammenhang mit einem beim Grossen Gemeinderat anhängigen Beratungsgegenstand, so ist es in der Regel mit demselben zu erledigen.
+4 Eine Diskussion über den Bericht und Antrag des Stadtrates findet statt, wenn diese von einem Drittel der anwesenden Mitglieder verlangt wird. Der Rat kann darüber Beschluss fassen, ob er die stadträtliche Vorlage in zustimmendem oder in ablehnendem Sinne zur Kenntnis nimmt.
