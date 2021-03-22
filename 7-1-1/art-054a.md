@@ -1,0 +1,4 @@
+# § 54a Bauzone mit speziellen Vorschriften Rötelberg
+1 Die Bauzone mit speziellen Vorschriften Rötelberg ist für öffentlich zugängliche Nutzungen, insbesondere für Gastronomie sowie für Wohnen und Arbeiten bestimmt.
+2 Der Rötelberg soll in seinem Charakter und Erscheinungsbild mit öffentlich zugänglicher Nutzung, Aussichtspunkt und Bestockung erhalten werden. Um den langfristigen Bestand des Gebäudeensembles zu sichern, sind bei den bestehenden Bauten und Anlagen Erneuerungen und Erweiterungen im Rahmen der denkmalpflegerischen Vorgaben zulässig. Neubauten haben sich besonders gut in das Landschafts- und Ortsbild einzufügen. Es gelten mit Ausnahme des minimalen Wohnanteils die Grundmasse der Zone WA2.
+3 Die Bauzone mit speziellen Vorschriften Rötelberg wird der Lärmschutz-Empfindlichkeitsstufe III zugewiesen.
