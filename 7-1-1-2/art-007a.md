@@ -1,3 +1,1 @@
-# § 7a Übergangsbestimmungen zur Änderung vom 19. Januar 2016
-1 Für die vor dem Inkrafttreten dieser Änderungen eingereichten vollständigen Baugesuche gelten die maximalen Verkaufspreise bzw. maximalen Anfangsmietzinse gemäss der Regelung vom 30. April 2013.
-2 Erhöhungen der Anfangsmietzinse gemäss Regelung vom 30. April 2013 sind nicht zulässig, solange die Anfangsmietzinse gemäss § 2 Abs. 1 tiefer liegen oder gleich sind. Übersteigen die Anfangsmietzinse gemäss § 2 Abs. 1 die Anfangsmietzinse gemäss der Regelung vom 30. April 2013, gelten für alle Liegenschaften die Anfangsmietzinse gemäss § 2 Abs. 1.
+# § 7a …
