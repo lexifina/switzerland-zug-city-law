@@ -1,2 +1,4 @@
-# Tarife für Einsätze und Dienstleistungen Feuerwehr und Feuerschau
-Vom 12.08.2014
+# Feuerwehr: Verrechnung von Einsätzen und Dienstleistungen der Feuerwehr und des Brandschutzes; Verrechnungsansätze
+Vom 28.02.2023
+Der Stadtrat von Zug,
+beschliesst:
