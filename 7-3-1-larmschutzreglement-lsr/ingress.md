@@ -1,6 +1,6 @@
-# Reglement über die Lärmbekämpfung
-(Lärmreglement)
-Vom 18.01.1972
-Der Große Gemeinderat von Zug,
-gestützt auf die §§ 37, 40, 41 und 43 des Gesetzes betreffend das Gemeindewesen vom 20. November 1876, § 91 des Baugesetzes für die Stadtgemeinde Zug vom 27. November 1923, §§ 8, 13 und 15 des Polizeistrafgesetzes für den Kanton Zug vom 7. November 1940 und § 25 Ziff. 6, 18 und 19 der Gemeindeordnung der Stadt Zug vom 1. April 1962
+# Reglement über den Schutz vor Lärmimmissionen
+(Lärmschutzreglement, LSR)
+Vom 13.06.2023
+Der Grosse Gemeinderat von Zug,
+in Vollziehung von § 59 Abs. 1 Ziff. 3 des Gesetzes über die Organisation und die Verwaltung der Gemeinden vom 4. September 1980 sowie gestützt auf § 16 Abs. 2 Bst. b der Gemeindeordnung der Stadt Zug vom 1. Februar 2005,
 beschliesst:
