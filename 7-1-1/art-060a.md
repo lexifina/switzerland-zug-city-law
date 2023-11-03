@@ -1,0 +1,10 @@
+# § 60a Übrige Zone mit speziellen Vorschriften Brüggli
+1 Die Übrige Zone mit speziellen Vorschriften Brüggli ist für Naherholungszwecke wie Sportaktivitäten, kleinere Veranstaltungen, Gastronomie, Liege- und Spielwiese, Campieren mit Zelten und dergleichen bestimmt.
+2 Das Naherholungsgebiet «Brüggli» soll in seinem heutigen Charakter erhalten und weiterentwickelt werden. Zu den wesentlichen Merkmalen gehören die freie Zugänglichkeit und Naturnähe sowie ein Neben- und Miteinander vielfältiger Nutzungen.
+3 In der Übrigen Zone mit speziellen Vorschriften Brüggli sind Bauten und Anlagen für Infrastrukturangebote für die Naherholung (z.B. Restauration, Bad- und Sportpavillon (mit WC-Anlagen, Duschen, Garderoben, Vermietungsstation usw.), Veloabstellplätze, Sitzgelegenheiten, Feuerstellen, Beachvolleyballfelder und dergleichen) zulässig.
+4 Innerhalb der Übrigen Zone mit speziellen Vorschriften Brüggli ist mit Ausnahme eines Betriebs- und eines Behindertenparkplatzes keine fixe Parkierung für Motorfahrzeuge zulässig. Die Zufahrt ist lediglich für Anlieferung und Unterhalt der Anlagen zulässig.
+5 Es sind 2 bis max. 4 eingeschossige Gebäude mit einer Gesamthöhe von max. 5.50 m und einer Gebäudegrundfläche von gesamthaft max. 480 m2 zulässig. Die Anordnung der Gebäude ist auf zwei Standorte zu konzentrieren.
+6 Mehrere Gebäude an einem Standort können mit einem gemeinsamen Dach ausgestaltet werden. Gedeckte Aussenraumflächen sind allseitig zulässig. Die Anordnung der Dachfläche ist frei.
+7 Die Bauten und Anlagen für die Infrastrukturangebote müssen auf die landschaftliche Umgebung Rücksicht nehmen und sich in diese einfügen.
+8 Die Umgebungsgestaltung hat möglichst naturnah und ökologisch zu erfolgen und verfügt über eine grosse Biodiversität. Im Rahmen des Baubewilligungsverfahrens muss ein detaillierter Umgebungsplan eingereicht werden, der die Umgebung und die ökologische Gestaltung aufzeigt. Bei der Bepflanzung sind standortgerechte, einheimische Pflanzen zu wählen. Die fachgerechte und nachhaltige Pflege ist sicherzustellen.
+9 Die Übrige Zone mit speziellen Vorschriften Brüggli wird der Lärmempfindlichkeitsstufe ES III zugewiesen.
