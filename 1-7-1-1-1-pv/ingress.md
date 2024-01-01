@@ -1,6 +1,6 @@
-# Vollziehungsverordnung zum Reglement über das Arbeitsverhältnis des Gemeindepersonals der Stadt Zug
-(Personalverordnung)
-Vom 24.10.2000
+# Personalverordnung
+(PV)
+Vom 28.11.2023
 Der Stadtrat von Zug,
-gestützt auf § 58 des Reglements über das Arbeitsverhältnis des Gemeindepersonals der Stadt Zug (Personalreglement) vom 5. September 2000,
+in Vollziehung von § 15 Abs. 1 des Personalreglements vom 14. November 2023 sowie gestützt auf § 27 Abs. 2 Bst. b der Gemeindeordnung der Stadt Zug vom 1. Februar 2005,
 beschliesst:
