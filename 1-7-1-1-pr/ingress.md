@@ -1,6 +1,6 @@
-# Reglement über das Arbeitsverhältnis des Gemeindepersonals der Stadt Zug
-(Personalreglement)
-Vom 05.09.2000
+# Personalreglement
+(PR)
+Vom 14.11.2023
 Der Grosse Gemeinderat von Zug,
-gestützt auf § 25 Ziff. 5 der Gemeindeordnung,
+gestützt auf § 16 Abs. 2 Bst. b der Gemeindeordnung der Stadt Zug vom 1. Februar 2005,
 beschliesst:
