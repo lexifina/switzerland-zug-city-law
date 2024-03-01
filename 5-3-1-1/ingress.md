@@ -1,4 +1,4 @@
-# Feuerwehr: Verrechnung von Einsätzen und Dienstleistungen der Feuerwehr und des Brandschutzes; Verrechnungsansätze
-Vom 28.02.2023
+# Feuerwehr: Verrechnung von Einsätzen und Dienstleistungen der Feuerwehr ab 1. März 2024; Verrechnungsansätze
+Vom 27.02.2024
 Der Stadtrat von Zug,
 beschliesst:
