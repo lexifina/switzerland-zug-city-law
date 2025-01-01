@@ -1,4 +1,4 @@
-# Umwelt und Energie: Energiekommission; Förderprogramm 2024
-Vom 19.12.2023
+# Energiekommission: Energie-Förderprogramm 2025
+Vom 17.12.2024
 Der Stadtrat von Zug,
 beschliesst:
