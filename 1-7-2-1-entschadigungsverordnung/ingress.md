@@ -1,6 +1,6 @@
 # Verordnung über besondere Entschädigungen an das Personal der Stadt Zug
 (Entschädigungsverordnung)
-Vom 12.01.2021
+Vom 17.12.2024
 Der Stadtrat von Zug,
-gestützt auf § 39 und 58 des Personalreglements vom 5. September 2000 sowie § 32 und 35 der Personalverordnung vom 24. Oktober 2000,
+gestützt auf § 15 des Personalreglements (PR) vom 14. November 2023 sowie § 24 der Personalverordnung (PV) vom 28. November 2023,
 beschliesst:
