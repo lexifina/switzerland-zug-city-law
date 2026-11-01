@@ -1,0 +1,11 @@
+{
+  "path": "ch-zg-zug",
+  "code": "CH-ZG-ZUG",
+  "name": "Zug (city)",
+  "level": "municipality",
+  "parent": "ch-zg",
+  "repo": "https://github.com/lexifina/switzerland-zug-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (80 acts, 129 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}

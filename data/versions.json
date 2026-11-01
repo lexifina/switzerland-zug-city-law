@@ -1,0 +1,1419 @@
+{
+ "country": "CH-ZG-ZUG",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 32,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.1-1/versions/372",
+     "sha256": "ff6328e0ed8573869cb3e1ce00ea5a9373d875d2a8e76a5941f6b33a00d32dde"
+    },
+    {
+     "from": "2024-05-14",
+     "units": 32,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "2f0260d14aba2de1c96f19f86fbb1883d6ba95cefd11275905a51284153edc9e"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1",
+   "short": "SRS 1.2-1",
+   "title": "Verordnung über die Aktenführung und das Stadtarchiv",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 15,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "988da1d5e57f40aeb179d77eadf8cfaee43bc56c35a440ed1c6930ecfeec57e1"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-1-1",
+   "short": "SRS 1.4-1.1",
+   "title": "Einwohnerdienste: Wahl- und Abstimmungslokale; Anpassung Urnenöffnungszeiten",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.4-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 4,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.4-1.1",
+     "sha256": "18b63422f80d168e80a18b4f4e2896fd4e3a4b8b9f908e0617607aa94898ccb3"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-2",
+   "short": "SRS 1.4-2",
+   "title": "Verordnung über die politische Aussenwerbung",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.4-2",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 11,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.4-2",
+     "sha256": "6b14c34fb2b99c3aab45ba077498c4bb73bcd9821d5a0c898a58a4392c9ff4ad"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1-geschaftsordnung-gso",
+   "short": "Geschäftsordnung, GSO",
+   "title": "Geschäftsordnung des Grossen Gemeinderates der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.5-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 76,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.5-1",
+     "sha256": "d217facf7c0d9a830ad5c54932c5a3088bbcba1f9cdc1d6acb2d4a4a974a48ba"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-3",
+   "short": "SRS 1.5-3",
+   "title": "Reglement über die Entschädigungen der Behörden und Kommissionsmitglieder der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.5-3",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.5-3",
+     "sha256": "c06117495af0aad89797a8d3f5a3c23b108cf0f87d0a0c4b39f27bf24ea62240"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-1-go-stadtrat",
+   "short": "GO Stadtrat",
+   "title": "Geschäftsordnung des Stadtrates von Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.6.1-1",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 37,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.1-1/versions/399",
+     "sha256": "5d39d6354ace8a84b78c3d0e80452942784316894ea810190ac903a4049d89c5"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 37,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.1-1/versions/652",
+     "sha256": "f2f4cb1d2b3478205199dafeac7b6d711440fb87810e28548a52f9498d7d3679"
+    },
+    {
+     "from": "2024-02-01",
+     "units": 37,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.1-1/versions/682",
+     "sha256": "7958703b74539cc6248c39edf8a5a958302b17e74aac6fa131fbb3fd49a3aabc"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 37,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.1-1/versions/700",
+     "sha256": "ce13e868a5c0ba3cbbf71f11bfc8f5b135fb2f0b28855af6ff42e65768c99af6"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 37,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.1-1/versions/934",
+     "sha256": "633d6c798189269b1ae0b517a5751caa489d01aa07e656fe888bb48e6724aa8c"
+    },
+    {
+     "from": "2025-05-01",
+     "units": 37,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.1-1",
+     "sha256": "925d8f289e99470fd67eeca8be54295f3723d7e76a775cfcada308cd19f66e23"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-2-stadtratsreglement",
+   "short": "Stadtratsreglement",
+   "title": "Reglement über das Dienstverhältnis, die Besoldung und die berufliche Vorsorge des Stadtrates von Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.6.1-2",
+   "versions": [
+    {
+     "from": "2009-09-27",
+     "units": 13,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.1-2/versions/933",
+     "sha256": "6b2ee353656d92ba8598518d237a8f8194228c7d964b6251eaeee3ca52818bfd"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 14,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.1-2",
+     "sha256": "83f5fba42be7a6f45f6f8a7457fc53510c512fea0b5447652609494c598fb495"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-3",
+   "short": "SRS 1.6.1-3",
+   "title": "Informatik: Verrechnungsansätze der Dienstleistungen für öffentliche Verwaltungen",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.6.1-3",
+   "versions": [
+    {
+     "from": "2005-03-22",
+     "units": 8,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.1-3",
+     "sha256": "15403ff15101a0fc2e1d5bf2ea237b1ea41c83b02158b21a49e9ad5f1c344cd4"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2-1-delegationsverordnung",
+   "short": "Delegationsverordnung",
+   "title": "Verordnung über die Delegation von Entscheidkompetenzen an die Departemente",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.6.2-1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 29,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.2-1/versions/400",
+     "sha256": "7715d095487962d76568d28015189e63adecc29950a2540a1032bd515db6628d"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 30,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.2-1/versions/575",
+     "sha256": "b2472f848db6e269f0908817b35776777f9dea49e8ca609195b764cd1014a33f"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 31,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.2-1/versions/653",
+     "sha256": "8b83c897925a6e221e7fcc9f1eef653e9da1e62f8c20102612aad883aa182f71"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 32,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.2-1",
+     "sha256": "dd6a550f80efdf3a15462816aacba3d9579d771a7f111555c27a8e796d252abf"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2-1-11",
+   "short": "SRS 1.6.2-1.11",
+   "title": "Organisation: Departementsentscheid Kompetenzdelegation Sozialhilfe; Kompetenzdelegation an die Abteilung Soziales und Gesellschaft",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.6.2-1.11",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 4,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.2-1.11/versions/921",
+     "sha256": "5b4df952d159c695bdb9773358a32b8f2471ceccb9d45e360f611130aab20d49"
+    },
+    {
+     "from": "2025-05-01",
+     "units": 4,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.2-1.11",
+     "sha256": "e5a1a7abee158217558480d04d9a5beba977eadecdaf90c9a56ca9e47604d3ae"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3-1-vo-kuko",
+   "short": "VO Kuko",
+   "title": "Verordnung über die Kulturkommission",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.6.3-1",
+   "versions": [
+    {
+     "from": "2000-03-01",
+     "units": 12,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.3-1/versions/287",
+     "sha256": "20cc052ec72f784d5dd4f591243d3028b2b3c4f5868a7de78bb738bdc55b59cf"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 12,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.3-1",
+     "sha256": "39c85b7ff905c122001229fa5a777dc3fa2e553a8b8fe8127145ff99fb8b0558"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3-2",
+   "short": "SRS 1.6.3-2",
+   "title": "Verordnung über die Nachhaltigkeitskommission",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.6.3-2",
+   "versions": [
+    {
+     "from": "2013-06-01",
+     "units": 12,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.3-2/versions/300",
+     "sha256": "ba81af6ef34109e301e9e45d24c54e0f2a71be8695270e4fe2da87ab39c0cd10"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 12,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.3-2",
+     "sha256": "02fe8732d65c864fb1ae1896ef3e39456ff70edbbff71bda1ab8bf5e33a90c62"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3-3",
+   "short": "SRS 1.6.3-3",
+   "title": "Verordnung über die Stadtbildkommission",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.6.3-3",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 18,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.3-3/versions/1130",
+     "sha256": "7f4ce71fc474e5d1bd96e979cbaca9209b98a63bf492c750218d4e19ed37aaee"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 19,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.3-3",
+     "sha256": "92188c1488b3dfa7c72f6661d9e4a3c5247eabe891a386a6e5c9866cc35ea982"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3-5",
+   "short": "SRS 1.6.3-5",
+   "title": "Verordnung für die Personalkommission der Einwohnergemeinde Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.6.3-5",
+   "versions": [
+    {
+     "from": "1988-07-05",
+     "units": 15,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.3-5",
+     "sha256": "6580d796fd8cbd1d196ef723c8a941eb05047a616d2a7115405a872b5116246b"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3-6",
+   "short": "SRS 1.6.3-6",
+   "title": "Verordnung über die Grundstückgewinnsteuerkommission",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.6.3-6",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 15,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.3-6",
+     "sha256": "dc00dcc751241d0cf00c977d8cf5dea835942311b93554c9dc7992d6aa806e02"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3-7-energieverordnung",
+   "short": "Energieverordnung",
+   "title": "Verordnung über die Organisation der Energiekommission",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.6.3-7",
+   "versions": [
+    {
+     "from": "2000-05-01",
+     "units": 10,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.3-7/versions/964",
+     "sha256": "df92e94921fa9f67750f26a7b0eb25f8880d724c345ef6a2adf607bf8329f194"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 10,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.6.3-7",
+     "sha256": "e647522026ee75d117cf1c08e572b345737318b6efa5cd9830d45f63086b4075"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1-pr",
+   "short": "PR",
+   "title": "Personalreglement",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.7.1-1",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 60,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.1-1/versions/311",
+     "sha256": "90f5d51817cbe46825851db7073e029300a75e228c2b0f449b4e1775c92d350d"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 18,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.1-1",
+     "sha256": "962301d8ca4677489f0940ede40a00c4a7e91aaf316faf118efd2778c0658621"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1-1-pv",
+   "short": "PV",
+   "title": "Personalverordnung",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.7.1-1.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 56,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.1-1.1/versions/338",
+     "sha256": "a666607302fd657e67f34cdc6932bfd3d4ffd2bd37b68d0d38b9d38ea3a903ca"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 37,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.1-1.1/versions/683",
+     "sha256": "5b3e4bd4afa8fa22b2a0bf7e2a119361da47c88edb228a5350e2e53160b0810a"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 37,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.1-1.1",
+     "sha256": "621cb0d134b027150c1623d488bc7c5e11281ec9b41dd4cbba1fcd42b2f43505"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-2-glaz-verordnung",
+   "short": "GLAZ-Verordnung",
+   "title": "Verordnung über die gleitende Arbeitszeit (GLAZ) in der Stadtverwaltung Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.7.1-2",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 19,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.1-2",
+     "sha256": "1389360bad999b3b922cb3e42f5166677197ec5166562d355a903435d32e3d4b"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-3",
+   "short": "SRS 1.7.1-3",
+   "title": "Erlass von Grundsätzen zum Schutz der persönlichen Integrität am Arbeitsplatz",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.7.1-3",
+   "versions": [
+    {
+     "from": "1997-12-02",
+     "units": 10,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.1-3",
+     "sha256": "06c90b0b9fb487537b8c0c227750686bbc26448819cc5e64c09e689c87c5154a"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-2-1-entschadigungsverordnung",
+   "short": "Entschädigungsverordnung",
+   "title": "Verordnung über besondere Entschädigungen an das Personal der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.7.2-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 35,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.2-1/versions/402",
+     "sha256": "df2a4466c09715d307d0f4357d787313e52fa691ffcb5ac8b332ae958ec83da3"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 28,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.2-1",
+     "sha256": "a84e5ad68bc25f266697f14473817742d6add6aae0a67815f7939f6780a6eb66"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-2-1-1-9",
+   "short": "SRS 1.7.2-1.1.9",
+   "title": "Personal: Gehälter 2025; Regelung der Teuerungszulage an das städtische Personal",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.7.2-1.1.9",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 3,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.2-1.1.9/versions/550",
+     "sha256": "655874f3293b60a3859e07f5dd3aec6102901bb1f04dd6815fda69d85be8bad9"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.2-1.1.9/versions/1149",
+     "sha256": "68b27736793394d3187abf546e81a0fa9059df84d30950ef32880bc7fc384bc5"
+    },
+    {
+     "from": "2024-11-05",
+     "units": 5,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.2-1.1.9",
+     "sha256": "ce87cc0fa5be7dba1a637ff887b19368945e1acec7f63599d8c393cf01d187b2"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-2-2-spesenverordnung",
+   "short": "Spesenverordnung",
+   "title": "Verordnung über die Spesenentschädigungen an das Personal der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/1.7.2-2",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 6,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/1.7.2-2",
+     "sha256": "3cfd8d3d667b44ce2e6ddb7b4ff6b75911173ed0ae5c6e84b2e4070ce31995e6"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3-reglement-betreuung",
+   "short": "Reglement Betreuung",
+   "title": "Reglement über die familienergänzende Betreuung von Kindern",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.1-3",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 31,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.1-3",
+     "sha256": "26bd76c6fe6f81a96ee2ebf3136636d42f2e61b44a46728b787efc48f029b97c"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3-1-vo-gutscheine",
+   "short": "VO Gutscheine",
+   "title": "Verordnung über Gutscheine für die Betreuung in Kindertagesstätten",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.1-3.1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 15,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.1-3.1/versions/404",
+     "sha256": "ef8e81f5dc2389d5794dbb40f2d3477b7927cbaa6cefcd20e86c76a7dfb3852c"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 15,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.1-3.1/versions/648",
+     "sha256": "100d65bf6474c6d1590a730a70afa936359bbeef5f285716beff04a5e0f6c0e6"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 15,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.1-3.1/versions/733",
+     "sha256": "e180d09ba4ce585bb13bb62fe18a5ba9304c678e939af4c12c2bceed2e51fb5a"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 16,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.1-3.1",
+     "sha256": "f47c924a993a9cfd6de48647564fa00316845162b801c7e0021410b255069f52"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-4-spielgruppenrichtlinien",
+   "short": "Spielgruppenrichtlinien",
+   "title": "Richtlinien für die Anerkennung von Spielgruppen und die Ausrichtung von städtischen Beiträgen",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.1-4",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.1-4/versions/405",
+     "sha256": "1e40fc47fc35bf3c9cea494850aed8ee1c88e4a55fcd6b9bc74ac7d16d6acd52"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 7,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.1-4",
+     "sha256": "a36f658073dd8bf1d9855ac02bafd2da2f0366a118f1cb819b2164bd17c908d3"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-1",
+   "short": "SRS 4.2.1-1",
+   "title": "Schul- und Disziplinarordnung der Stadtschulen Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.2.1-1",
+   "versions": [
+    {
+     "from": "2009-03-14",
+     "units": 36,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.2.1-1",
+     "sha256": "bf4342eb7929a26661955fcf6bb2b0fbee6b6da90ca8ee70d527c0a804c4a9e9"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-7-tagesschulreglement",
+   "short": "Tagesschulreglement",
+   "title": "Reglement über die Tagesschule der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.2.1-7",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 14,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.2.1-7",
+     "sha256": "4b1bcdeb516b999d7e5a2beb27372bd5b15ae1f7115cc681825ec0aa9f8cce96"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-7-1-tagesschulverordnung",
+   "short": "Tagesschulverordnung",
+   "title": "Verordnung über die Tagesschule der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.2.1-7.1",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 9,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.2.1-7.1",
+     "sha256": "07c273e94e5ca75d24468cc2b89411b1f4adb6bc09c47e4dbe998f262644f4c9"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2-1",
+   "short": "SRS 4.2.2-1",
+   "title": "Reglement über die Musikschule der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.2.2-1",
+   "versions": [
+    {
+     "from": "1992-02-01",
+     "units": 19,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.2.2-1",
+     "sha256": "b4b876dc1e6ebe5380b7b2b90853ab410b5839ac0776717b29d48aa1f32beb18"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2-1-1-musikschulvo",
+   "short": "MusikschulVO",
+   "title": "Verordnung über die Musikschule der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.2.2-1.1",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 31,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.2.2-1.1",
+     "sha256": "9cc8910a52678d0da7a271ec8de2e012237e11821d11ddf4070f935d91e791e4"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3-1",
+   "short": "SRS 4.2.3-1",
+   "title": "Reglement über den Schulzahnarztdienst",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.2.3-1",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 12,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.2.3-1",
+     "sha256": "95634f326013850f1dc404a59af72a8567a32e30ba2f94b7c5dd6018cc37342f"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3-1-1",
+   "short": "SRS 4.2.3-1.1",
+   "title": "Verordnung über den Schulzahnarztdienst",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.2.3-1.1",
+   "versions": [
+    {
+     "from": "2003-08-01",
+     "units": 4,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.2.3-1.1/versions/291",
+     "sha256": "588b573fe8ab11de1b99c2a83cdb1fe20c6e76d7ad48c441669e7b2974d34f03"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 5,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.2.3-1.1",
+     "sha256": "3f0b3a5c674c9d6bb3eab42f06e61204baf987280f79fb18e1beb6af6f7b8a43"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1-kulturforderungsreglement-kfr",
+   "short": "Kulturförderungsreglement, KFR",
+   "title": "Reglement über die Kulturförderung",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.7-1",
+   "versions": [
+    {
+     "from": "2001-02-20",
+     "units": 9,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.7-1/versions/292",
+     "sha256": "acad82e36c292462129e35a1852b7cdfc942ba3296bcf07ea345de516d76db1e"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 13,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.7-1",
+     "sha256": "79253cd78b51e80ae7781dd1e16d79e4165c7e10b5744ad4cc2b91ad42034295"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-3",
+   "short": "SRS 4.7-3",
+   "title": "Bibliotheks-Vertrag",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.7-3",
+   "versions": [
+    {
+     "from": "2017-03-01",
+     "units": 7,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.7-3",
+     "sha256": "243dde01eb9be8d3ac8c5a642f79b2bd01f7995983f40e58bfc5347cc49f94b0"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-3-1",
+   "short": "SRS 4.7-3.1",
+   "title": "Verwaltungs-Reglement über die Verwaltung der Stadt- und Kantonsbibliothek Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.7-3.1",
+   "versions": [
+    {
+     "from": "1986-01-21",
+     "units": 5,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.7-3.1",
+     "sha256": "986d4b2b4db6542baeb334fce796871aa37576a7c62a7d978c339b2ec41713ec"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-3-2",
+   "short": "SRS 4.7-3.2",
+   "title": "Benützungsordnung der Stadt- und Kantonsbibliothek Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/4.7-3.2",
+   "versions": [
+    {
+     "from": "2005-08-16",
+     "units": 11,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/4.7-3.2",
+     "sha256": "989db6983e485bf7f853e055469c00b361797ce68c601e5b2204fcf365b04d15"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1",
+   "short": "SRS 5.3-1",
+   "title": "Feuerwehrreglement der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/5.3-1",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 14,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/5.3-1/versions/409",
+     "sha256": "f4fc84ecab4c6bce5d41ae25811590c5371a61f8c5b648d57ad65b5a46fb1291"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 14,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/5.3-1",
+     "sha256": "fd711e03a15d68e691115444ec842914db970a357c30d37f85663a6518bd4755"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1-1",
+   "short": "SRS 5.3-1.1",
+   "title": "Feuerwehr: Verrechnung von Einsätzen und Dienstleistungen der Feuerwehr ab 1. März 2024; Verrechnungsansätze",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/5.3-1.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 7,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/5.3-1.1/versions/359",
+     "sha256": "15dd5b4dfdbe9188f4de359d4c1ec9ea4bc57aad123921e5d9997178ca570650"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 4,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/5.3-1.1/versions/589",
+     "sha256": "c57ce8f70b0dd25e6c391614c8ab02487f3d1a5aeb73a603e25fb5fa30baa307"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 2,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/5.3-1.1",
+     "sha256": "db21f699b6012770f09e895db57a00d44f9132e316a6c8f5ccf5da4e5f0a7252"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Gemeindeführungsstab: Organisation; Anpassung Organigramm und Pflichtenheft",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 5,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "9627cd08e21e193255a0a785458b6205912ee392cd4cc53ae550538964b60b91"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-1",
+   "short": "SRS 6.1-1",
+   "title": "Finanzverordnung",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/6.1-1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 26,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/6.1-1",
+     "sha256": "29b9e257958ee3555c3a0f07387c60ada8ed8c330f7280dfce2dcfd8b1e0b567"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-3-sponsoringrichtlinien",
+   "short": "Sponsoringrichtlinien",
+   "title": "Richtlinien über die Mitfinanzierung von Aufgaben der Stadt Zug durch Sponsoring",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/6.4-3",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 7,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/6.4-3",
+     "sha256": "e55ff95f32c2e2e88b8563ca388fbc98c741ae03af3b9753be83353bc39f5906"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-7",
+   "short": "SRS 6.4-7",
+   "title": "Gebührenordnung für die Bereiche Nutzung des öffentlichen Raumes, Taxistandplätze, Gastgewerbe und Strafbefehlsverfahren",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/6.4-7",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 4,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/6.4-7",
+     "sha256": "71b9e0c94e3d49b587811afa4bad437289eed2c962412f9bdf217c9a2813e9cb"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-anlagenbenutzungsverordnung",
+   "short": "Anlagenbenützungsverordnung",
+   "title": "Verordnung über die Benützung der Sportanlagen, Schulanlagen, Mehrzwecksäle sowie Militär- und Zivilschutzräume",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 14,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "eaa0fd91f32aa35324cc67b8ebb0a1a6067d469963febe2a615f87bc85cd79e1"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3",
+   "short": "SRS 6.6-3",
+   "title": "Verordnung über die Vermietung von Musikräumen der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/6.6-3",
+   "versions": [
+    {
+     "from": "1997-11-04",
+     "units": 5,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/6.6-3",
+     "sha256": "332db4936991aba8dab0c0f8ea917fb0bdfff949e3636f3544301c1d4bd2370e"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-4-badeordnung-hallenbader",
+   "short": "Badeordnung Hallenbäder",
+   "title": "Badeordnung für die öffentlichen Hallenbäder der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/6.6-4",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 17,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/6.6-4",
+     "sha256": "a615ae466f332ea4805f32fc747b6fd0ec4e4e6165834ba6140ba6dd4f5a4d41"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-6",
+   "short": "SRS 6.6-6",
+   "title": "Verordnung über die Benützung der Schiessanlagen im Choller",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/6.6-6",
+   "versions": [
+    {
+     "from": "2013-12-01",
+     "units": 24,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/6.6-6/versions/425",
+     "sha256": "9b78af90b52d5ab3d22211a9a0e32a364b5590be956f10d3c9eee1ad86a43249"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 24,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/6.6-6",
+     "sha256": "5032420c5d0ff6e5062b4a74e0c40ea691f01131252bd8d0198f6f77211f9570"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-7",
+   "short": "SRS 6.6-7",
+   "title": "Benützungsordnung für die Seebäder",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/6.6-7",
+   "versions": [
+    {
+     "from": "2021-05-01",
+     "units": 17,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/6.6-7/versions/414",
+     "sha256": "e1b64f556b48f722f55fd9523f4945a3649c7840a843b5b000642d3e51aa4a74"
+    },
+    {
+     "from": "2024-05-01",
+     "units": 16,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/6.6-7",
+     "sha256": "2e3b15bcd055dac523d91b432684b4967fa8a2b30fbaa0c0eb6ee22d08b142f5"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Bauordnung der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 78,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.1-1/versions/691",
+     "sha256": "0ee8ace3d2d3a0f3da71aa1fc9736bbc7ac173a888559eefa8ab639dfb931e21"
+    },
+    {
+     "from": "2022-07-11",
+     "units": 78,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.1-1/versions/692",
+     "sha256": "afcd36e674aaaf350f80d3841befa7c68e46e72415ff817a423fbf278ee3e948"
+    },
+    {
+     "from": "2023-11-03",
+     "units": 79,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "6fc15cc5141e9858e6ddd14f72f505e00e1cf3e6c3656b7fecbb23449ec590de"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1-1",
+   "short": "SRS 7.1-1.1",
+   "title": "Gebührenordnung für das Planungs- und Baubewilligungsverfahren",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.1-1.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 9,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.1-1.1",
+     "sha256": "f41bd26567c6d33adb1243073fa44fb9cbd1761071fcabcd04249f3570c94625"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1-2",
+   "short": "SRS 7.1-1.2",
+   "title": "Verordnung über die Zone für preisgünstigen Wohnungsbau",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.1-1.2",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 9,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.1-1.2/versions/416",
+     "sha256": "22ff8e4fb949e7e39eaed29e42cbd099c9f0e223795a68b540d6740527e6736d"
+    },
+    {
+     "from": "2022-01-25",
+     "units": 9,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.1-1.2/versions/532",
+     "sha256": "fed593b403ebc43b54cbf59c3a52465e617db70eae72c99127e80025c59a645a"
+    },
+    {
+     "from": "2024-05-01",
+     "units": 9,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.1-1.2/versions/694",
+     "sha256": "75aacda8ace70a0ffad4223ef00faab2525315c33503a8727264ed7043414055"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 9,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.1-1.2",
+     "sha256": "986b576e44b333a3e172afb3f3f68f8250534b1c16f3511f060855c7ad5c0d1f"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1-3-altstadtr",
+   "short": "AltstadtR",
+   "title": "Altstadtreglement",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.1-1.3",
+   "versions": [
+    {
+     "from": "2016-04-01",
+     "units": 18,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.1-1.3",
+     "sha256": "798b9ab2366b35b7401460fe192f5ac06dc4cbb6de8dcbe2fbfaf3c566f82360"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1-4",
+   "short": "SRS 7.1-1.4",
+   "title": "Reglement über die Planung und Erstellung von Hochhäusern",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.1-1.4",
+   "versions": [
+    {
+     "from": "2018-05-07",
+     "units": 19,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.1-1.4",
+     "sha256": "65bcbef7f5b8b76429dc26ee6677668962fd830ec27935eca1cc904eac785b48"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1-5",
+   "short": "SRS 7.1-1.5",
+   "title": "Parkplatzreglement",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.1-1.5",
+   "versions": [
+    {
+     "from": "2010-07-22",
+     "units": 16,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.1-1.5",
+     "sha256": "7e2df7919fac7d21233a9d6700c62b7dbccb1c9a63dee9b177904f73689f8063"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1-larmschutzreglement-lsr",
+   "short": "Lärmschutzreglement, LSR",
+   "title": "Reglement über den Schutz vor Lärmimmissionen",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.3-1",
+   "versions": [
+    {
+     "from": "1972-06-16",
+     "units": 16,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.3-1/versions/312",
+     "sha256": "d78af3e8fed0155f9e4ce8b25bf96524ab24a1dd7a74b6de6bb6d7117a25256f"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 15,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.3-1",
+     "sha256": "ecaddefda7b00b43eb16659ae609ad2e2fd55913be8cd77af6be05441b0d6c51"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-2",
+   "short": "SRS 7.3-2",
+   "title": "Verordnung über die Feuerungskontrolle",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.3-2",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 5,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.3-2/versions/429",
+     "sha256": "d41c2e702e2c2b25f4867981939b8e1c34051887eb90a32dce638da610e6e915"
+    },
+    {
+     "from": "2022-02-01",
+     "units": 6,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.3-2",
+     "sha256": "c0e42c28da47403f7ba922ccaf571a31adf68410cb98b5f042a84d4cad014eea"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-energier",
+   "short": "EnergieR",
+   "title": "Energiereglement",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.4-3",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 13,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.4-3/versions/430",
+     "sha256": "fda9bd374fdd3effd844c78a52186704b64cebcd700c5c64a3178be5d37139f3"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 12,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.4-3",
+     "sha256": "97e23ef7a7aafafb6e861d6ab5d8bc53a949210872992aafa31e8ac0ba2b182a"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1",
+   "short": "SRS 7.4-3.1",
+   "title": "Energiekommission: Energie-Förderprogramm 2025",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.4-3.1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 2,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.4-3.1/versions/616",
+     "sha256": "1d56aa06e3661c22407c9b83380020ef300f831292c2df1acfed344ef21f380e"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 2,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.4-3.1/versions/668",
+     "sha256": "e53d3dc9e710ff48adf0de952043f66f2445400e1f41a95a6950e1b8e76a7189"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 3,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.4-3.1",
+     "sha256": "faaa1072df883c341aa839bea32af3fe5d97eaad8ae785390680506cf1c2e4cc"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4",
+   "short": "SRS 7.4-4",
+   "title": "Abwasserreglement",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.4-4",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 24,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.4-4",
+     "sha256": "d958e5eb6c7a205bdb329ec8954ac4121051cd22a026a88e17fd2440718985dd"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-1",
+   "short": "SRS 7.6-1",
+   "title": "Reglement über Strassen und Wege",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.6-1",
+   "versions": [
+    {
+     "from": "2000-04-06",
+     "units": 25,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.6-1",
+     "sha256": "8c6dca6d9e6a16de6ea1a3025500f36b7e972c3184187d07aed3fda850ff8d01"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-2",
+   "short": "SRS 7.6-2",
+   "title": "Reglement über die Bestellung von Leistungen des öffentlichen Verkehrs",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.6-2",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 6,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.6-2",
+     "sha256": "a26122f2950d10fddc81d133e8f34c83ee395df00f02e10fabbb083abd57e8b3"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-2-1",
+   "short": "SRS 7.6-2.1",
+   "title": "Öffentlicher Verkehr: Angebotsbeschluss gemäss § 2 des Reglements über die Bestellung von Leistungen des öffentlichen Verkehrs",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.6-2.1",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 7,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.6-2.1",
+     "sha256": "147508fbe0f1e34da8dce179ddd98990c205ba1cfaf6c70abcf5e5828cef37d0"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-3",
+   "short": "SRS 7.6-3",
+   "title": "Reglement über die Aussenwerbung",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.6-3",
+   "versions": [
+    {
+     "from": "2012-02-01",
+     "units": 32,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.6-3",
+     "sha256": "a4807f6c24f1a3340f75248cb13b19786244fff7982287b55e496f87cd03fa38"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-1",
+   "short": "SRS 7.7.1-1",
+   "title": "Reglement über die Benützung der öffentlichen Anlagen",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.7.1-1",
+   "versions": [
+    {
+     "from": "2021-03-01",
+     "units": 27,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.1-1/versions/617",
+     "sha256": "d061b099ce5cce02ddfc7b0540ff60d8b48c76bf5c61b5adc6838738ee4212e8"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 27,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.1-1",
+     "sha256": "8a5d002c3d734b241773b936d34e98420a10d0ef629ba9fd99444a9e22438982"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-1-1",
+   "short": "SRS 7.7.1-1.1",
+   "title": "Gebührenordnung für die Benützung der öffentlichen Anlagen",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.7.1-1.1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 6,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.1-1.1",
+     "sha256": "0a6b03626908b2ab60f6725e0ceced041e07983a5e4cac3d45ad47d5264ea4ec"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-2-1",
+   "short": "SRS 7.7.1-2.1",
+   "title": "Richtlinien für das Sponsoring von Veranstaltungen auf öffentlichem Grund",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.7.1-2.1",
+   "versions": [
+    {
+     "from": "2000-09-26",
+     "units": 5,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.1-2.1",
+     "sha256": "896969b65828ec37c3cc5442e3bb6812858963e068651f7a0e2ba046af0a1662"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-2-2",
+   "short": "SRS 7.7.1-2.2",
+   "title": "Verordnung über die Strassenkunst",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.7.1-2.2",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.1-2.2",
+     "sha256": "09c648b852b3eb6f9a59811765b40e6e37be0c43685eaaaa4b430bec750347d2"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-3",
+   "short": "SRS 7.7.1-3",
+   "title": "Verordnung über die Konzessionsgebühren für die Sondernutzung von öffentlichem Grund",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.7.1-3",
+   "versions": [
+    {
+     "from": "2007-06-26",
+     "units": 5,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.1-3",
+     "sha256": "929ea3b12a8defd56e6f052c9876136c650635bb8e336003d9489e094017e427"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-5-1",
+   "short": "SRS 7.7.5-1",
+   "title": "Reglement über das nächtliche Dauerparkieren auf öffentlichem Grund",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.7.5-1",
+   "versions": [
+    {
+     "from": "1968-07-02",
+     "units": 10,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.5-1/versions/383",
+     "sha256": "facb92d88383b645363b4ce1824b43e2886fd697dcd018f28c183b065d73afd2"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 10,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.5-1",
+     "sha256": "011150b512d23fba3639dfe37b7b2778d3c87737de901a0c3c56e46a5504328e"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-5-2",
+   "short": "SRS 7.7.5-2",
+   "title": "Verordnung über die Parkraumbewirtschaftung",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.7.5-2",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 10,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.5-2/versions/382",
+     "sha256": "913186ffd62b647a88649380f54132b9968e4e376989c7c5088049bda8038999"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 21,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.5-2/versions/393",
+     "sha256": "95ab8b484a1163c22b1149bac05c94d9e7988e88a7459d23bfed4dca8449183b"
+    },
+    {
+     "from": "2025-05-01",
+     "units": 21,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.5-2",
+     "sha256": "9c95ce158c24c07e5c1f9891c10f8f996e661ac80d9bb9ce1eb725fe84123eae"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-5-3",
+   "short": "SRS 7.7.5-3",
+   "title": "Verordnung über die Erteilung von Zufahrtsbewilligungen",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.7.5-3",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 11,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.5-3",
+     "sha256": "42e5ce03545223c6b8a99ca21b3ee2c50048f0e8504edb6bb2dc075116e2b4d8"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-5-4-1",
+   "short": "SRS 7.7.5-4.1",
+   "title": "Organisation: Departementsentscheid Kompetenzdelegation Parkraumbewirtschaftung; Subdelegation an die Abteilung Sicherheit und Verkehr",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.7.5-4.1",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 4,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.5-4.1",
+     "sha256": "56efa787f822c2b515c591a975621ea8a8aa79965bf9094e9ac2b4e246f8b46a"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-7-1-hafenordnung",
+   "short": "Hafenordnung",
+   "title": "Betriebsreglement für den Bootshafen Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/7.7.7-1",
+   "versions": [
+    {
+     "from": "1999-11-16",
+     "units": 11,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/7.7.7-1",
+     "sha256": "4277147ecf7952412465c644a345526c30579cfbe2049fed37329313e6629ab6"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-1",
+   "short": "SRS 8.1-1",
+   "title": "Reglement über die Langzeitpflege",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/8.1-1",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 8,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/8.1-1",
+     "sha256": "a94bb6f58c68f327202e0f09d4e9f7f2eecddeb08464e3f6937a1819af5987a5"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Benützungsordnung Friedhof St. Michael",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 36,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/8.2-1/versions/423",
+     "sha256": "95c68a9abcdb0f0563f15214b221e972ac323a91091668ce413d305db0f40306"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 36,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "e5d5864ca438ecfb0253fe60243a8b0b4478a9d7f01bbd96c469331d3f81a39c"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Gebührenordnung Friedhof St. Michael",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 10,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/8.2-1.1/versions/337",
+     "sha256": "85b813c0d12ece4278757fafe2182074912e8cb74cbefdacd6292629cf481db7"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 10,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "be91caec6f8667a0339c205f54bfac6c13ada098807cfec3c8833454f5ef4d08"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1",
+   "short": "SRS 9.4-1",
+   "title": "Verordnung betreffend die Einführung einer Beherbergungsabgabe",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/9.4-1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 10,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/9.4-1/versions/324",
+     "sha256": "041ed4c82dc794cba482eda9a1faa0b035cab4e8dfd5260adc018e98945f2256"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 10,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/9.4-1",
+     "sha256": "9a2edcde85bec01e97985a41c9e58ae9137e91e588fe43cc9338572b2c0e3300"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-4",
+   "short": "SRS 9.5-4",
+   "title": "Taxireglement der Stadt Zug",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/9.5-4",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 16,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/9.5-4",
+     "sha256": "2a1d270f4c0457c0a90fb5288e2ba1d22705611e1d36fdb1d737ef8dfeba348f"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-4-2",
+   "short": "SRS 9.5-4.2",
+   "title": "Taxireglement der Stadt Zug; Richtlinien für Bussenbemessung der kommunalen Übertretungstatbestände",
+   "url": "https://zug.tlex.ch/app/de/texts_of_law/9.5-4.2",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://zug.tlex.ch/api/de/texts_of_law/9.5-4.2",
+     "sha256": "ef3dc3f7178d46406923a6e37ce1ebb170d9535a28621557f7f593acc5047ef0"
+    }
+   ]
+  }
+ ]
+}
