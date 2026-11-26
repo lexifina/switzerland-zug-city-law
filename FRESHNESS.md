@@ -8,7 +8,7 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Zug: Systematische Sammlung (zug.tlex.ch) · `switzerland/zug/zug/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 08:23 UTC**.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 07:14 UTC**.
 - Vorschriften hier: 80; aktuell gegenüber der Quelle: 80; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 14 der 80 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 113 (hier vorhanden, an der Quelle nicht mehr: 113); ohne Grund: 0.

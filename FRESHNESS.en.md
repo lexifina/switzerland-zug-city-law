@@ -8,7 +8,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Zug: systematic collection (zug.tlex.ch) · `switzerland/zug/zug/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 08:23 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-26 07:14 UTC**.
 - Acts held here: 80; current at the source: 80; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 14 of the 80 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 113 (held here, no longer at the source: 113); with no reason: 0.

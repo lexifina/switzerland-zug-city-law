@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:29:48Z",
+ "generated": "2026-11-26T07:21:21Z",
  "latest": {
   "lexwork-zug-city|switzerland/zug/zug/acts": {
    "attempt": 1,
@@ -23,14 +23,14 @@
     "repo": 80,
     "source_in_scope": 80
    },
-   "check_id": "ch-lexwork-zug-city-20261125T082224Z",
+   "check_id": "ch-lexwork-zug-city-20261126T071346Z",
    "commits": null,
    "corpus": "switzerland/zug/zug/acts",
    "error": null,
-   "finished": "2026-11-25T08:23:13Z",
+   "finished": "2026-11-26T07:14:35Z",
    "flags": [
     {
-     "detail": "2 of 31 texts differ from the source",
+     "detail": "2 of 28 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
@@ -52,7 +52,7 @@
    },
    "snapshot": "197 entries, 197 in force (zug.tlex.ch)",
    "source": "lexwork-zug-city",
-   "started": "2026-11-25T08:22:24Z",
+   "started": "2026-11-26T07:13:46Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -76,7 +76,7 @@
     "not_compared_why": null,
     "ok": false,
     "swept": 14,
-    "versions_checked": 31,
+    "versions_checked": 28,
     "versions_differ": 2
    }
   }
