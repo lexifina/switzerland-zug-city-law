@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T07:15:00Z",
+ "generated": "2026-11-28T08:37:17Z",
  "latest": {
   "lexwork-zug-city|switzerland/zug/zug/acts": {
-   "attempt": 1,
+   "attempt": 3,
    "audit": {
     "examples": [],
     "match_neither": 0,
@@ -23,14 +23,14 @@
     "repo": 80,
     "source_in_scope": 80
    },
-   "check_id": "ch-lexwork-zug-city-20261127T070815Z",
+   "check_id": "ch-lexwork-zug-city-20261128T083040Z",
    "commits": null,
    "corpus": "switzerland/zug/zug/acts",
    "error": null,
-   "finished": "2026-11-27T07:09:00Z",
+   "finished": "2026-11-28T08:31:35Z",
    "flags": [
     {
-     "detail": "2 of 26 texts differ from the source",
+     "detail": "2 of 33 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
@@ -42,7 +42,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 42,
+   "requests": 51,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "197 entries, 197 in force (zug.tlex.ch)",
    "source": "lexwork-zug-city",
-   "started": "2026-11-27T07:08:15Z",
+   "started": "2026-11-28T08:30:40Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -76,7 +76,7 @@
     "not_compared_why": null,
     "ok": false,
     "swept": 14,
-    "versions_checked": 26,
+    "versions_checked": 33,
     "versions_differ": 2
    }
   }

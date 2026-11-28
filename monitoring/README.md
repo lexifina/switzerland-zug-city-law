@@ -6,18 +6,21 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Zug: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-27 07:09 UTC, Zug: Systematische Sammlung (zug.tlex.ch): 42 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 113 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`.
+**Letzte Prüfung:** 2026-11-28 08:31 UTC, Zug: Systematische Sammlung (zug.tlex.ch): 51 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 113 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Zug: Systematische Sammlung (zug.tlex.ch)](https://zug.tlex.ch/) | `<act>/` | täglich | 2026-11-27 07:09 UTC | keine Änderung | beobachtet |
+| [Zug: Systematische Sammlung (zug.tlex.ch)](https://zug.tlex.ch/) | `<act>/` | täglich | 2026-11-28 08:31 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 08:30](checks/2026-11.md#ch-lexwork-zug-city-20261128t083040z) | lexwork-zug-city | 51 | 0 | 0 | 0 | 113 (0) | keine Änderung `verify-differ` | — |
+| [2026-11-28 07:12](checks/2026-11.md#ch-lexwork-zug-city-20261128t071204z) | lexwork-zug-city | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
+| [2026-11-28 06:42](checks/2026-11.md#ch-lexwork-zug-city-20261128t064246z) | lexwork-zug-city | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-27 07:08](checks/2026-11.md#ch-lexwork-zug-city-20261127t070815z) | lexwork-zug-city | 42 | 0 | 0 | 0 | 113 (0) | keine Änderung `verify-differ` | — |
 | [2026-11-26 07:13](checks/2026-11.md#ch-lexwork-zug-city-20261126t071346z) | lexwork-zug-city | 45 | 0 | 0 | 0 | 113 (0) | keine Änderung `verify-differ` | — |
 | [2026-11-25 08:22](checks/2026-11.md#ch-lexwork-zug-city-20261125t082224z) | lexwork-zug-city | 45 | 0 | 0 | 0 | 113 (0) | keine Änderung `verify-differ` | — |
